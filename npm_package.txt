@@ -1,0 +1,9 @@
+1. react-router-dom   -->  npm i react-router-dom
+2. antd               -->  npm i antd
+3. styled-components  -->  npm i styled-components@latest
+4. axios              -->  npm i axios
+5. react-icons        -->  npm i react-icons
+6. react-toastify     -->  npm i react-toastify
+7. redux toolkit      -->  npm install @reduxjs/toolkit
+8. react-redux        -->  npm install react-redux
+9. dayjs              -->  npm i dayjs
